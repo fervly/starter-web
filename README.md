@@ -14,3 +14,6 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 
 Simple project that can be deployed anywhere.
+
+## Copyright
+Copyright C Martin
