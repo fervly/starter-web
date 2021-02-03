@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.  Right now we are showing git compare/dif
+This repository is for showing how Git and GitHub work.  Right now we are showing git compare/dif.  Adding a line for rebasing example.
 
 ## Introduction
 
