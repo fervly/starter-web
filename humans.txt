@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    C Martin	cmartin@cmartin.com		@cmartin@cmartin
 
 # THANKS
 
