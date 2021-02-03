@@ -15,5 +15,9 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 Simple project that can be deployed anywhere.
 
+## Hot to Contribute
+
+Please fork this repositoryand then issue Pull Request.
+
 ## Copyright
 Copyright C Martin
